@@ -1,1 +1,1 @@
-# Discord-l-og
+# Discord-log
